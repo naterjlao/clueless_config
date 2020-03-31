@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=skeletal
-TAG_SERVERSIDE=skeletal
-TAG_BACKEND=skeletal
+TAG_FRONTEND=skeletal1
+TAG_SERVERSIDE=skeletal1
+TAG_BACKEND=skeletal1
