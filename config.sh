@@ -13,5 +13,5 @@
 ##############################################################################
 
 TAG_FRONTEND=restructure1
-TAG_SERVERSIDE=0.0-0
+TAG_SERVERSIDE=restructure1
 TAG_BACKEND=0.0-0
