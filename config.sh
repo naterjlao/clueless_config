@@ -13,5 +13,5 @@
 ##############################################################################
 
 TAG_FRONTEND=skeletal1
-TAG_SERVERSIDE=skeletal1
+TAG_SERVERSIDE=somethign
 TAG_BACKEND=skeletal1
