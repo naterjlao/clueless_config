@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=0.1-1
+TAG_FRONTEND=debianConfig
 TAG_SERVERSIDE=0.1-1
 TAG_BACKEND=0.1-1
