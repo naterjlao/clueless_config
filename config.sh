@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=1.1.1
+TAG_FRONTEND=master
 TAG_SERVERSIDE=linking
-TAG_BACKEND=linking
+TAG_BACKEND=master
