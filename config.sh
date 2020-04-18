@@ -13,5 +13,5 @@
 ##############################################################################
 
 TAG_FRONTEND=master
-TAG_SERVERSIDE=linking
+TAG_SERVERSIDE=master
 TAG_BACKEND=master
