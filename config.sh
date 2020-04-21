@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=something_funny
-TAG_SERVERSIDE=something_funny
-TAG_BACKEND=something_funny
+TAG_FRONTEND=master
+TAG_SERVERSIDE=master
+TAG_BACKEND=master
