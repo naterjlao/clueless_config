@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=master
+TAG_FRONTEND=ED1_stable0
 TAG_SERVERSIDE=ED1_stable0
 TAG_BACKEND=master
