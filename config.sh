@@ -13,5 +13,5 @@
 ##############################################################################
 
 TAG_FRONTEND=master
-TAG_SERVERSIDE=master
+TAG_SERVERSIDE=ED1_stable0
 TAG_BACKEND=master
