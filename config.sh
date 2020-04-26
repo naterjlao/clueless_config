@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=ED1_stable0
-TAG_SERVERSIDE=ED1_stable0
-TAG_BACKEND=ED1_stable0
+TAG_FRONTEND=signal_restruct
+TAG_SERVERSIDE=signal_restruct
+TAG_BACKEND=signal_restruct
