@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=0.1-1
-TAG_SERVERSIDE=0.1-1
-TAG_BACKEND=0.1-1
+TAG_FRONTEND=master
+TAG_SERVERSIDE=master
+TAG_BACKEND=master
