@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=signal_restruct
+TAG_FRONTEND=test_UI_merge
 TAG_SERVERSIDE=backup
 TAG_BACKEND=backup
