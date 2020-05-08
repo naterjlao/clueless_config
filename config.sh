@@ -13,5 +13,5 @@
 ##############################################################################
 
 TAG_FRONTEND=test_UI_merge
-TAG_SERVERSIDE=backup
-TAG_BACKEND=backup
+TAG_SERVERSIDE=suggestion
+TAG_BACKEND=suggestion
