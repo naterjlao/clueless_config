@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=ui_updates
+TAG_FRONTEND=signal_restruct
 TAG_SERVERSIDE=master
 TAG_BACKEND=master
