@@ -12,6 +12,6 @@
 #       <major>.<minor>-revision
 ##############################################################################
 
-TAG_FRONTEND=test_UI_merge
-TAG_SERVERSIDE=suggestion
-TAG_BACKEND=suggestion
+TAG_FRONTEND=ui_updates
+TAG_SERVERSIDE=master
+TAG_BACKEND=master
